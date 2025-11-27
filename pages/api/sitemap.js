@@ -1,6 +1,6 @@
 import { posts } from "../../data/posts";
 
-const BASE_URL = "https://tu-dominio.com";
+const BASE_URL = "https://proyecto-seo-three.vercel.app/";
 
 export default async function handler(req, res) {
   const staticUrls = ["/", "/blog", "/contacto"];
